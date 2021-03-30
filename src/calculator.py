@@ -12,8 +12,8 @@ def subtraction(a, b):
     return c
 
 def mean(data):
-    mean = data
-    return mean
+ mean = data
+ return mean
 
 class Calculator:
     result = 0
@@ -28,4 +28,4 @@ class CSVStats(Calculator):
 
 def _init_(self, data_file):
     self.data = CsvReader(data_file)
-        pass
+    pass
