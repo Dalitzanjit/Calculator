@@ -19,7 +19,7 @@ def _init_(self):
     pass
 
 
-def addition(self, a, b):
+def add(self, a, b):
     self.result = addition(a, b)
     return self.result
 
