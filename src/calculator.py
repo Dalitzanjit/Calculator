@@ -9,10 +9,6 @@ def subtraction(a, b):
 class Calculator:
     result = 0
 
-    def addition(self, a, b):
-        self.result = addition(a, b)
-        pass
-
 
 def _init_(self):
     pass
