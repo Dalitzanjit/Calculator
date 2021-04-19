@@ -28,3 +28,7 @@ def subtract(self, a, b):
     self.result = subtraction(a, b)
     return self.result
     pass
+
+
+class Addition:
+    pass
